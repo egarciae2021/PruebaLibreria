@@ -7,7 +7,7 @@
 
     // Agregar la función para mostrar el alert
     MiLibreria.saludar = function() {
-        alert("Hola Mundoasdsdsdss");
+        alert("Pepe lucho");
     };
 
     // Exponer la librería en el objeto global (window en un navegador)
